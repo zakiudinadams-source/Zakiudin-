@@ -1,11 +1,11 @@
-# Zakiudin-
+
 Create files and save for future use 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name</title>
+    <title>zakiudin</title>
     <style>
         body { font-family: sans-serif; text-align: center; padding: 50px; background: #f4f4f9; color: #333; }
         h1 { color: #0076ff; margin-bottom: 5px; }
